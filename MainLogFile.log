@@ -1,0 +1,256 @@
+16 May, 2014 1:36:15 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 1:36:44 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 1:37:07 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 1:37:07 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 1:37:07 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 2:38:04 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 2:38:04 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 2:38:04 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 2:41:56 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 2:41:56 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 2:41:56 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 2:49:13 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 2:49:13 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 2:49:13 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 2:49:42 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 2:49:42 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 2:49:42 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 2:50:12 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 2:50:12 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 2:50:12 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 2:53:02 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 2:53:02 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 2:53:02 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 2:56:02 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 2:56:02 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 2:56:02 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 2:58:16 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 2:58:16 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 2:58:16 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 3:35:51 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 3:35:51 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 3:35:51 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 3:37:56 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 3:37:56 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 3:37:56 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 3:39:49 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 3:39:49 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 3:39:49 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 3:41:03 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 3:41:03 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 3:41:03 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 3:42:09 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 3:42:09 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 3:42:09 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 3:44:02 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 3:44:02 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 3:44:02 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 3:52:00 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 3:52:00 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 3:52:00 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 4:02:18 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 4:02:18 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 4:02:18 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 4:11:44 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 4:11:45 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 4:11:45 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 4:55:56 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 4:56:25 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 4:56:25 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 4:56:25 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 4:56:49 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 4:56:49 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 4:56:49 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 4:56:49 PM my_tfidf.main_tfidf main
+INFO: Program completed 
+16 May, 2014 4:57:36 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 4:57:36 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 4:57:36 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 4:57:36 PM my_tfidf.main_tfidf main
+INFO: Program completed 
+16 May, 2014 4:58:53 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 4:58:53 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 4:58:53 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:01:33 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:01:33 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:01:33 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:02:03 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:02:03 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:02:03 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:02:19 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:02:19 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:02:19 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:03:49 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:03:49 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:03:49 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:04:02 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:04:02 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:04:02 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:04:49 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:04:49 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:04:49 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:05:11 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:05:11 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:05:11 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:11:31 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:11:31 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:11:31 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:12:00 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:12:00 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:12:00 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:12:14 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:12:14 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:12:14 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:19:16 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:19:16 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:19:16 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:19:32 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:19:32 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:19:32 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:19:42 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:19:42 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:19:42 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:21:54 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:21:54 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:21:54 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:22:11 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:22:11 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:22:11 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 5:22:39 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 5:22:39 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 5:22:39 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 6:06:15 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 6:06:16 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 6:06:16 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 6:07:47 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 6:07:47 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 6:07:47 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
+16 May, 2014 6:08:24 PM my_tfidf.main_tfidf main
+INFO: Main Program started
+16 May, 2014 6:08:24 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 1  is : 104
+16 May, 2014 6:08:24 PM my_tfidf.file_lister list_files
+INFO: files present in /home/kiran/Documents/input/article_comparison/folder 2  is : 66
