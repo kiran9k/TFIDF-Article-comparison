@@ -3,8 +3,6 @@ package my_tfidf;
 import java.util.ArrayList;
 import java.util.List;
 
-import tfidf.CosineSimilarity;
-import tfidf.TfIdf;
 
 public class tfidf_computations {
 	public static List<double[]> one_time_tfidfcalculator(List<String[]>  termsDocsArray,List<String> allTerms)
@@ -35,28 +33,32 @@ public class tfidf_computations {
         double idf; //inverse document frequency
         double tfidf; //term requency inverse document frequency
         List<double[]> tfidfDocsVector = new ArrayList<double[]>();
+        //System.out.println("docs size:"+termsDocsArray.get(1)[2]);
         for (String[] docTermsArray : termsDocsArray) {
             double[] tfidfvectors = new double[allTerms.size()];
             int count = 0;
             for (String terms : allTerms) {
                 tf = new TfIdf().tfCalculator(docTermsArray, terms);
                 idf = new TfIdf().idfCalculator(termsDocsArray, terms);
+               // System.out.println(tf+" "+idf);
                 tfidf = tf * idf;
                 tfidfvectors[count] = tfidf;
                 count++;
             }
             tfidfDocsVector.add(tfidfvectors);  //storing document vectors;            
         }
-        //System.out.println("calculation complete");
+        //System.out.println("calculation complete "+tfidfDocsVector.get(0)[2]);
         return tfidfDocsVector;
 		
     }
-	 public static double getCosineSimilarity(List<double[]> tfidfDocsVector) {
+	 public static  double getCosineSimilarity(List<double[]> tfidfDocsVector) {
 	     //System.out.println(tfidfDocsVector.get(0)[1]+" " +tfidfDocsVector.get(1)[1]);   
 	     double best_match=-1;
 	     int found=0;
-	     System.out.println( (new CosineSimilarity().cosineSimilarity(tfidfDocsVector.get(0),tfidfDocsVector.get(1))));
-	     return (new CosineSimilarity().cosineSimilarity(tfidfDocsVector.get(0),tfidfDocsVector.get(1)));
+	    // System.out.println( (new CosineSimilarity().cosineSimilarity(tfidfDocsVector.get(0),tfidfDocsVector.get(1))));
+	     best_match=(new CosineSimilarity().cosineSimilarity(tfidfDocsVector.get(0),tfidfDocsVector.get(1)));
+	     //System.out.println(best_match);
+	     return best_match;
 	     /*for (int i = 0; i < tfidfDocsVector.size(); i++) 
 	     {
 	    	 for (int j = 1; j < tfidfDocsVector.size(); j++)

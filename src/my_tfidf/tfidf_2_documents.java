@@ -19,6 +19,7 @@ public class tfidf_2_documents {
 		System.out.println(Global.prop.get(0)+Global.prop.get(1));
 		String content1 = "",content2 = "";
 		String[] split;
+		String output_content="";
 		ArrayList<String> temp=new ArrayList<String>();
 		String temp_string;
 		List<String[]> all_docs=new ArrayList<String[]>();
@@ -43,6 +44,8 @@ public class tfidf_2_documents {
 			temp_docs.add(temp_string.split("\\W+"));
 			temp_unique.addAll(Arrays.asList(temp_string.split("\\W+")));
 			temp.clear();
+			double best=-1,temp_double;
+			String file_name="";
 			for(int j=0;j<file2.size();j++)
 			{
 				if(Global.prop.get(2).contains("xml"))
@@ -60,17 +63,40 @@ public class tfidf_2_documents {
 				temp.clear();
 				all_docs.addAll(temp_docs);
 				all_docs.add(temp_string.split("\\W+"));
+				for (String[] term : all_docs) 
+				{
+					for(String k:term)
+					{
+						if (!unique_words.contains(k)) {  //avoid duplicate entry
+							//System.out.println(k);
+							unique_words.add(k);
+						}
+					}                   
+                }
 				all_unique.addAll(temp_unique);
 				all_unique.addAll(Arrays.asList(temp_string.split("\\W+")));
-				unique_words.addAll(all_unique);
+				//unique_words.addAll(all_unique);
 				all_unique.clear();
 				
-				System.out.println(all_docs.size()+"  "+unique_words.size());
+				//System.out.println(all_docs.size()+"  "+unique_words.size()+" " +temp_unique.size());
 				// call tf-idf
 				tfidf_vector.addAll(tfidf_computations.tfIdfCalculator(all_docs, unique_words));				
 				//compute %
-				//System.out.println(tfidf_vector.get(0));
-				System.out.println(/*file1.get(i)+" " +file2.get(j)+" "+*/tfidf_computations.getCosineSimilarity(tfidf_vector));
+				for(int k=0;k<tfidf_vector.get(1).length;k++);
+					//System.out.print(tfidf_vector.get(1)[k]+",");
+				//System.out.println("\ntfidf_vector.get(1).length :"+tfidf_vector.get(1).length+" "+tfidf_vector.get(0).length);
+				for(int k=0;k<tfidf_vector.get(0).length;k++);
+					//System.out.print(tfidf_vector.get(0)[k]+",");
+				//System.out.println(tfidf_vector.get(1).length);
+				temp_double=tfidf_computations.getCosineSimilarity(tfidf_vector);
+				//System.out.println(temp_double);
+				if(best<temp_double)
+				{
+					//System.out.println(/*file1.get(i)+" " +file2.get(j)+" "+*/tfidf_computations.getCosineSimilarity(tfidf_vector));
+					best=temp_double;
+					//System.out.println(best);
+					file_name=file2.get(j);
+				}
 				
 				tfidf_vector.clear();
 				all_unique.clear();
@@ -78,7 +104,13 @@ public class tfidf_2_documents {
 				all_docs.clear();
 			}
 			temp_docs.clear();
+			
 			temp_unique.clear();
+			System.out.println(file1.get(i)+" "+file_name+"   "+best);
+			output_content=file1.get(i)+"\t"+file_name+"\t"+(int)(100*best)+"\n";
+			output_writer.txt_writer(output_content,"output_tfidf.txt");
+			best=0;
+			
 		}
 			
 	}

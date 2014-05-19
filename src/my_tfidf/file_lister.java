@@ -38,7 +38,7 @@ public class file_lister {
 					//System.out.println("format not supported");
 				}
 			}
-			/*Collections.sort(output, new Comparator<String>() {
+			Collections.sort(output, new Comparator<String>() {
 		       
 				@Override
 				public int compare(String arg0, String arg1) {
@@ -47,7 +47,7 @@ public class file_lister {
 					return arg0.compareTo(arg1);
 					//return 1;
 				}
-		    });*/
+		    });
 			
 		}
 		L.info("files present in "+f1.getAbsolutePath()+ "  is : "+output.size());
